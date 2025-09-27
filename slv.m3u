@@ -1,0 +1,67 @@
+#EXTINF:-1 tvg-id="10000" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SONY HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10001" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",SONY SAB HD
+https://dishmt.slivcdn.com/hls/live/2011749-b/SABHD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10002" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",SONY PAL
+https://dishmt.slivcdn.com/hls/live/2011741-b/SonyPalSD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10003" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Movie",SONY WAH
+https://dishmt.slivcdn.com/hls/live/2011906-b/SonyWah/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10004" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Movie",SONY MAX
+https://dishmt.slivcdn.com/hls/live/2011745-b/SonyMaxSD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10005" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movie",SONY MAX HD
+https://dishmt.slivcdn.com/hls/live/2011670-b/SonyMaxhd/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="10006" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movie",SONY MAX2
+https://dishmt.slivcdn.com/hls/live/2011908-b/MAX2/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10007" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",SONY TEN 1
+https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10008" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports",SONY TEN 2
+https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10009" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports",SONY TEN 3
+https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10010" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sports",SONY TEN 4 
+https://dishmt.slivcdn.com/hls/live/2020437-b/ten4sd/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10011" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports",SONY TEN 5 
+https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10012" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",SONY TEN 1 HD
+https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10013" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",SONY TEN 2 HD
+https://dishmt.slivcdn.com/hls/live/2020434-b/TEN2HD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10014" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",SONY TEN 3 HD
+https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10015" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",SONY TEN 4 HD
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10016" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",SONY TEN 5 HD
+https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10017" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Documentary",SONY BBC EARTH
+https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10018" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids",SONY YAY
+https://dishmt.slivcdn.com/hls/live/2011746-b/SonyYaySD/serve.key?/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10019" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="ENG Movies",SONY PIX HD
+https://dishmt.slivcdn.com/hls/live/2011748-b/PIXHD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10020" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Entertainment",SONY MARATHI
+https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
+
+#EXTINF:-1 tvg-id="10021" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Entertainment",SONY AATH 
+https://dishmt.slivcdn.com/hls/live/2011641-b/SonyAathSD/hdntl=exp=1759027806~acl=%2f*~id=fab5dd5fef8b4d2f8885fe3c0d1b0e7a-1758941371523~data=hdntl~hmac=ddc387c01af763f98f1ee433d3cb9b73928d0a8aa8e0a79e70e86988b4e11a95/master_3500.m3u8
